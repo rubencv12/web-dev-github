@@ -1,0 +1,18 @@
+main {
+  margin: 200px auto 20px auto;
+  padding: 20px;
+  width: 800px;
+  border: solid rgb(40, 40, 40);
+}
+span{
+  color: rgb(40, 40, 40);
+}
+
+img {
+  width: 200px;
+  height: 200px;
+  border-radius: 100px;
+  border: 2px solid rgb(40, 40, 40);
+  margin-top: -130px;
+}
+

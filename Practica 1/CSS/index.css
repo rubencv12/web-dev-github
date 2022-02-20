@@ -1,0 +1,70 @@
+html {
+  background-color: rgb(244, 234, 255);
+  font-family: "Roboto", sans-serif;
+  text-align: center;
+  font-size: 24px;
+  margin: 60px;
+}
+
+h1 {
+  font-size: 60px;
+  color: rgb(148, 34, 148);
+}
+
+header {
+  padding: 32px;
+}
+
+header img {
+  width: 450px;
+}
+
+main {
+  text-align: left;
+  border-radius: 15px;
+  background-color: rgb(138, 54, 138);
+  color: white;
+  width: 1000px;
+  padding: 40px 20px 1px 20px;
+  margin: 20px auto 20px auto;
+}
+p {
+  padding: 2px;
+}
+li {
+  margin: 14px 0;
+  padding-left: 10px;
+  list-style: none;
+}
+
+.highligth {
+  color: rgb(235, 235, 143);
+  border-left: 5px solid rgb(247, 209, 85);
+}
+.span1 {
+  background-color: rgb(211, 211, 139);
+  color: black;
+  border-radius: 8px;
+  padding: 6px;
+}
+#download:hover,
+#download:active,
+.span1:hover {
+  background-color: rgb(150, 150, 75);
+}
+
+#download {
+  background-color: rgb(211, 211, 139);
+  color: black;
+  border-radius: 8px;
+  text-decoration: none;
+  padding: 12px;
+}
+
+#c {
+  color: rgb(102, 95, 95);
+}
+
+footer, footer a, footer p {
+    margin-top: 30px;
+}
